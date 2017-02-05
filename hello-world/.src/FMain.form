@@ -1,0 +1,9 @@
+# Gambas Form File 3.0
+
+{ Form Form
+  MoveScaled(0,0,57,35)
+  { lbl_message Label
+    MoveScaled(1,1,55,33)
+    Alignment = Align.Center
+  }
+}
